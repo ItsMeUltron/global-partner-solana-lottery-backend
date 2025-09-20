@@ -1,0 +1,16 @@
+{
+  "global": {
+    "totalAmount": 0,
+    "entries": []
+  },
+  "partners": {
+    "partner1": {
+      "totalAmount": 0,
+      "entries": []
+    },
+    "partner2": {
+      "totalAmount": 0,
+      "entries": []
+    }
+  }
+}

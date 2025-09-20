@@ -6,7 +6,7 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-app.use('/entry', require('./routes/entry'));
+app.use('/entry', require('./route/entry'));
 
 // Load pots
 let pots = require('./pots.json');
